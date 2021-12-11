@@ -1,1 +1,1 @@
-# n
+pip install -r requirements.txt
